@@ -18,6 +18,7 @@ var traverseDomAndCollectElements = function(matchFunc, startEl) {
   }
   return resultSet;
 };
+//
 
 // Detecta y devuelve el tipo de selector
 // devuelve uno de estos tipos: id, class, tag.class, tag

@@ -153,6 +153,7 @@ function completeToDo(event) {
   displayToDos();
 
 }
+//
 
 // Una vez que llegaste a este punto verificá que todos los tests pasen
 
