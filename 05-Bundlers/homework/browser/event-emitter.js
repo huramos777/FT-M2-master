@@ -1,4 +1,4 @@
-(function () {
+//(function () {
 
   window.EventEmitter = EventEmitter;
 
@@ -42,5 +42,5 @@
     });
 
   };
-
-})();
+module.exports = EventEmitter; 
+//})();
